@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Brian Mukundi
 
-<!--
-**brian-mukundi/Brian-Mukundi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Beginner Python Developer** | Learning **Automation** and **Data Analysis**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m currently building small Python projects to strengthen my skills in:
+- Python fundamentals (functions, loops, data structures)
+- Automation (using Python to simplify tasks)
+- Data analysis (working with pandas, CSVs, and visualization)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 My Current Projects
+- [Python Practice Projects](https://github.com/Brian-Mukundi/python-practice-projects)
+
+## 🌱 Currently Learning
+- Git & GitHub for version control  
+- Automating repetitive tasks with Python  
+- Data cleaning and visualization basics  
+
+##  Ask Me About
+- Getting started with Python  
+- Writing clean beginner code  
+- Setting up your first GitHub project  
+
+##  Connect with Me
+- **GitHub:** [@Brian-Mukundi](https://github.com/Brian-Mukundi)
+
+---
+
+> “The best way to learn to code is by building — one small project at a time.”
+
+Initial profile setup
