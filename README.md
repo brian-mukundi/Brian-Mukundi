@@ -25,6 +25,3 @@ Welcome to my GitHub! I’m currently building small Python projects to strength
 
 ---
 
-> “The best way to learn to code is by building — one small project at a time.”
-
-Initial profile setup
