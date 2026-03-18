@@ -11,6 +11,7 @@ Welcome to my GitHub! I’m currently building small Python projects to strength
 - [Python Practice Projects](https://github.com/Brian-Mukundi/python-practice-projects)
 - [Python Automation Scripts](https://github.com/brian-mukundi/python-automation-scripts)
 - [Python Email Automation System](https://github.com/brian-mukundi/python-email-automation-system)
+- [Github Report Generator](https://github.com/brian-mukundi/github-automation-report-generator)
 
 ## 🌱 Currently Learning
 - Git & GitHub for version control  
