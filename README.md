@@ -10,6 +10,7 @@ Welcome to my GitHub! I’m currently building small Python projects to strength
 ## 🧩 My Current Projects
 - [Python Practice Projects](https://github.com/Brian-Mukundi/python-practice-projects)
 - [Python Automation Scripts](https://github.com/brian-mukundi/python-automation-scripts)
+- [Python Email Automation System](https://github.com/brian-mukundi/python-email-automation-system)
 
 ## 🌱 Currently Learning
 - Git & GitHub for version control  
